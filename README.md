@@ -16,7 +16,7 @@ You can reach me at alexandre.piedade.ramos@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-piedade-ramos&layout=compact)
 
-#![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandre-piedade-ramos&count_private=true&show_icons=true&include_all_commits=true)
+#\![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandre-piedade-ramos&count_private=true&show_icons=true&include_all_commits=true)
 
 [github]: https://github.com/alexandre-piedade-ramos
 [linkedin]: https://www.linkedin.com/in//alexandre-ramos-a00630309/
