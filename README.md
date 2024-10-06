@@ -2,7 +2,7 @@ Hello, and welcome to my GitHub!
 
 My name is Alexandre Ramos. I'm a student from Lisbon, Portugal, with great enthusiasm for problem solving and technology.
 
-    🎓 Currently in the 2nd year of Computer Science and Engineering at Instituto Superior Técnico.
+    🎓 Currently in the 3rd year of Computer Science and Engineering at Instituto Superior Técnico.
 
 You can reach me at alexandre.piedade.ramos@gmail.com
 ## Tools and Languages
