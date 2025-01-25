@@ -9,7 +9,7 @@ You can reach me at alexandre.piedade.ramos@gmail.com
 [<img align="left" alt="Python" width="48px" height="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
 [<img align="left" alt="C" width="48px" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20220802133510%21The_C_Programming_Language_logo.svg" />][github]
 [<img align="left" alt="C++" width="48px" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png?20170928190710" />][github]
-[<img align="left" alt="Java" width="48px" height="48px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />][github]
+[<img align="left" alt="Java" width="48px" height="48px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/131px-Java_programming_language_logo.svg.png" />][github]
 <br />
 
 ---
